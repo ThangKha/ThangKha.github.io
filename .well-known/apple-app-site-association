@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "4AYSS67SP9.me.tylergarage.RideMate"
+        ],
+        "components": [
+          {
+            "/": "/invite",
+            "?": {
+              "code": "??????"
+            },
+            "comment": "Open RideMate friend invitations in the iOS app."
+          },
+          {
+            "/": "/group-ride",
+            "comment": "Open query-based RideMate Group Ride links in the iOS app."
+          },
+          {
+            "/": "/group-ride/*",
+            "comment": "Open path-based RideMate Group Ride links in the iOS app."
+          }
+        ]
+      }
+    ]
+  }
+}
